@@ -132,6 +132,12 @@ body{
     display: flex;
     animation: slide 10s infinite;
 }
+
+.track1{
+    display: flex;
+   
+}
+ 
  
 .carousel img{
     width: 10%;
