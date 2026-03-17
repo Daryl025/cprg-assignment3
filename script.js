@@ -8,12 +8,7 @@ document.querySelectorAll('.carousel').forEach(carousel =>{
     });
 
 
-    carousel.addEventListener('mouseleave', () => {
-        carousels.forEach(track => track.style.animationPlayState='running');
-    });
-});
 
-alert("Hello, please hover any image to stop the automatic slide show. Thanks!");
 
 
 
